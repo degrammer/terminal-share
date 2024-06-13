@@ -1,4 +1,4 @@
-![image](terminal-share-badge.png)
+![image](https://bencho.dev/terminal-share-badge.png)
 
 # Terminal-Share
 Share easily the output of the integrated terminal in a secure and fast way.
@@ -6,7 +6,7 @@ Share easily the output of the integrated terminal in a secure and fast way.
 ## Supported providers
 - GitHub Gist
 
-![image](terminal-share.gif)
+![image](https://bencho.dev/terminal-share.gif)
 
 ## Planned providers
 
