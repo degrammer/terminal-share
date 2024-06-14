@@ -1,6 +1,6 @@
 {
   "name": "terminal-share",
-  "displayName": "TerminalShare",
+  "displayName": "Terminal-Share",
   "description": "Share your terminal output",
   "publisher": "bencho",
   "icon": "assets/icon.png",
